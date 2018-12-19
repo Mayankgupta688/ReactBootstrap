@@ -5,6 +5,7 @@ function Welcome(props) {
   function App(props) {
     return (
       <div>
+        <h1>This is the usage of JSX Templates</h1>
         <Welcome name="Mayank" />
         <Welcome name="Meha" />
      </div>

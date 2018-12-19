@@ -1,4 +1,4 @@
-var titleElement = React.createClass({
+var TitleElement = React.createClass({
 
     getInitialState: function() {
         return { name: "Mayank" }

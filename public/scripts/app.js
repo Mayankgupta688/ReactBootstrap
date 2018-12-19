@@ -1,4 +1,4 @@
 ReactDOM.render(
-    React.createElement(titleElement, {dummyValue: "Mayank"}),
+    <TitleElement dummyValue="Mayank Gupta" />,
     document.getElementById("reactBootstrap")
 );
